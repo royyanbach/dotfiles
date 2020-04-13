@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "editor.minimap.renderCharacters": false,
+    "editor.fontFamily": "Gintronic, Ubuntu Mono, monospace",
+    "editor.lineHeight": 24,
+    "files.insertFinalNewline": true
+}
